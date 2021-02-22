@@ -1,5 +1,5 @@
 import React from 'react';
-import { Nav, NavLink, NavIcon, Bars } from './NavbarElements.styles';
+import { Nav, NavLink, NavIcon, Bars } from './Navbar.styles';
 
 const Navbar = () => {
   return (
