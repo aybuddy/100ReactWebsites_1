@@ -7,7 +7,7 @@ Once exhauasting the tutorial route, the developer should start building web app
 
 The goal is to understand React better from a foundational perspective and see how it can be implemented with other various technologies. It will NOT solely focus on the MERN stack but with encompass all other technologies to see how React is being used.
 
-The idea is that after xx amount of websites, the developer no longer needs tutorials and has safely escaped from Tutorial Hell. Once the developer has comfort in building apps from the scratch, the developer should move onto other areas of development whether it's the backend, design, testing, containerizatin, microservices, etc. There is no specific route for the developer to follow. Follow whichever path that suits you.
+The idea is that after xx amount of websites, the developer no longer needs tutorials and has safely escaped from Tutorial Hell. Once the developer has comfort in building apps from the scratch, the developer should move onto other areas of development whether it's the backend, design, testing, containerization, microservices, etc. There is no specific route for the developer to follow. Follow whichever path that suits you best.
 
 # 100 React Websites #1
 
